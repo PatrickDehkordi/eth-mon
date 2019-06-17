@@ -16,8 +16,8 @@ Make sure you have node.js and npm installed.
 Clone the repository and install the dependencies
 
 ```bash
-git clone https://github.com/cubedro/eth-netstats
-cd eth-netstats
+git clone https://github.com/PatrickDehkordi/eth-mon
+cd eth-mon
 npm install
 sudo npm install -g grunt-cli
 ```
